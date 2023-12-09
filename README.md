@@ -8,8 +8,6 @@
 - packages utilized: Selenium WebDriver, BeautifulSoup, RegEx, Pandas, NumPy
 - languages: Python
 
-#### Features
-- 
 #### Future improvements:
 - check replacement part availability
 - check flagship product availability (requires interactive add-to-cart click to see availability)
