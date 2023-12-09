@@ -14,3 +14,4 @@
 - check all regions, not just US
 - [enable chrome headless mode](https://stackoverflow.com/questions/46920243/how-to-configure-chromedriver-to-initiate-chrome-browser-in-headless-mode-throug/49582462#49582462)
 - create unit tests
+- Make it into a .py file that has an << if __name__ == ‘__main__’ >> t the end and takes input from the terminal ;)
