@@ -1,4 +1,4 @@
-# meta store product availability checker v1
+# meta store product availability checker
 ```
 - checks the availability of US Meta Store non-warranty, non-gift card, non-replacement part accessories
 - meta quest 3 facial interface & head strap (elemental blue & blood orange) variations combined into one availability
